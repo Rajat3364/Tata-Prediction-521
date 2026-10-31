@@ -48,8 +48,6 @@ With the pre-owned and new car markets constantly fluctuating, having a reliable
 
 
 
-
-
 \#Team
 
 &#x20;- Rajat Garambha (521)
