@@ -10,7 +10,7 @@ With the pre-owned and new car markets constantly fluctuating, having a reliable
 
 
 
-🔑 Key Features
+🔑 
 
 * Data Preprocessing \& Cleaning: Handles missing values, encodes categorical variables, and normalizes numerical features for optimal model performance.
 
